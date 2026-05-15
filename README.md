@@ -84,6 +84,16 @@ Open `.env` and fill in:
 
 ---
 
+## 6. Verify the setup
+
+```bash
+python verify-environment.py
+```
+
+This checks Python version, the active venv, all required packages, and your API keys. All items should show **OK** before running any demo.
+
+---
+
 ## Running the demos
 
 (Will be added before the workshop)
